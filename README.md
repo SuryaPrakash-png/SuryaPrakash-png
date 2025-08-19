@@ -1,17 +1,63 @@
-# 💫 About Me:
- 🌟 About Me :<br><br>🔭 I’m currently working on Robotics & Computer Vision Projects  <br>🤝 I’m looking to collaborate on Open Source Robotics & AI Projects  <br>💡 I’m looking for help with Cloud Deployment & AI in Robotics  <br>🌱 I’m currently learning Cloud Computing & Machine Learning  <br>💬 Ask me about Robotics | AI | Embedded Systems | OpenCV  <br>⚡ Fun fact: I love building robots that make life easier!  <br>
+# 🚀 About Me:
 
+- 🔍 I strongly believe the best learning comes from building and experimenting.  
+- 💡 My curiosity drives me to work across semiconductors, hardware design, and software development, enabling me to bridge different domains of technology  
+- 📚 Right now, I’m deepening my skills in DSA, system design, and physical design workflows.  
+- 🌍 I’m always open to connecting, collaborating, or contributing to projects that push boundaries and create something meaningful.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surya_0105_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-prakash-845a9529a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaprakashrani516@gmail.com) 
+---
 
+## 🛠️ Skills & Tools  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+**Languages:**  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Embedded C](https://img.shields.io/badge/Embedded%20C-009688?style=for-the-badge)  
 
+**Robotics & Embedded Systems:**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-FF6600?style=for-the-badge)  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Tools:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 
+---
 
+## ⚡ Tech Stack  
 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white)  
+
+---
+
+## 📂 Projects  
+
+- 🤖 **Automatic Waste Segregation Robot** – Designed to automatically segregate waste material into Metals, Plastics, and Glass.  
+- 🛣️ **Lane Detection System** – Implemented using OpenCV for highway navigation and autonomous driving applications.  
+- 💵 **Fake Currency Detection** – Built a system to detect counterfeit currency notes using image processing techniques.  
+- 🎯 **Color-based Object Detection** – Developed real-time object detection based on color filtering and segmentation.  
+
+---
+
+## ✍️ Thoughts Penned  
+
+> “Debugging time increases as a square of the program’s size.”  
+> — *Chris Wenham*  
+
+---
+
+## 🌐 Socials  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/surya_0105_/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-845a9529a)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprakashrani516@gmail.com)  
