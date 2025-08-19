@@ -17,14 +17,18 @@
 
 ---
 
+## 🤖 Robotics & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-FF6F00?style=for-the-badge&logoColor=white)
+
+---
+
 ## 💻 Tech Stack
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-FF6F00?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -48,7 +52,7 @@
 
 ---
 
-## ✍️ Thoughts Penned  
+## ✍️ Ideas & Perspectives
 
 > “Debugging time increases as a square of the program’s size.”  
 > — *Chris Wenham*  
